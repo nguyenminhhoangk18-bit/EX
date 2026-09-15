@@ -15,5 +15,6 @@ int main()
     scanf("%d",&b);
     swap(a,b);
     printf("Gia tri a luc sau %d,Gia tri b luc sau %d",b,a);
+    printf("complete task");
     return 0;
 }
